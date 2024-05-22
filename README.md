@@ -11,5 +11,5 @@ platform sdks i am using for this:
 
 #windows: **.NET**
 
-#linux: **unkown, will be finding one.**
+#linux: **unknown, will be finding one.**
 
